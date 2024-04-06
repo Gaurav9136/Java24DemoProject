@@ -4,7 +4,8 @@ public class Test1 {
 	public static void main(String[] args) {
 		System.out.println("In Test1 File");
 		System.out.println("Line number 6 change in Test1");
-		System.out.print("Branch B line number 7 change");
+		System.out.println("Branch B line number 7 change");
+		System.out.println("Branch c line number 7 change");
 
 	}
 }
